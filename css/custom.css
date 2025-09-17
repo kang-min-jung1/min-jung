@@ -31,14 +31,14 @@ a {
   display: none;
 }
 .panel .panel01 {
-  background-image: url(../img/pic1.jpg);
+  background-image: url(../img/pic2.jpg);
   display: block;
 }
 .panel .panel02 {
-  background-image: url(../img/pic2.jpg);
+  background-image: url(../img/pic3.jpg);
 }
 .panel .panel03 {
-  background-image: url(../img/pic3.jpg);
+  background-image: url(../img/pic1.jpg);
 }
 .panel .panel04 {
   background-image: url(../img/pic4.jpg);
