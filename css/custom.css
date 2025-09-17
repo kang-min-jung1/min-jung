@@ -29,6 +29,7 @@ a {
   background-position: center;
   background-size: cover;
   display: none;
+  font-size: 14px;
 }
 .panel .panel01 {
   background-image: url(../img/pic2.jpg);
